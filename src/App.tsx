@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <>
-        <h1>you are currently logged in</h1>
+        <h1>You Are Currently Logged In</h1>
         <div className="container">
           <div className="form-container">
             <div className="form-blob">
