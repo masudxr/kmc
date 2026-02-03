@@ -64,11 +64,15 @@ function App() {
                 <label htmlFor="remember-me-checkbox">Remrmber Me!</label>
               </div>
               <div className="form-col">
-                <a href="#" className="form-link">Forget Password</a>
+                <a href="#" className="form-link">
+                  Forget Password
+                </a>
               </div>
             </div>
-            <button type="submit" className="form-btn--submit">Sign In</button>
-          </form>          
+            <button type="submit" className="form-btn--submit">
+              Sign In
+            </button>
+          </form>
         </div>
       </>
       <h1>Hello Gamers Welcome to Our Journey !</h1>
